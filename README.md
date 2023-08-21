@@ -1,2 +1,2 @@
 # ant_or_bee
-this is a pytorch test program
+this is a model that can classify ants and bees
